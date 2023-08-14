@@ -17,7 +17,7 @@ Deprecated==1.2.13
 dogpile.cache==1.1.4
 enzyme==0.4.1
 feedparser==6.0.8
-future==0.18.2
+future==0.18.3
 gntp==1.0.3
 guessit==3.4.0
 html5lib==1.1

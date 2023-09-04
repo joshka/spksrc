@@ -75,7 +75,7 @@ pyads==3.2.2
 pycares==4.0.0
 # pybluez==0.22                   # for fjaraskupan fails to build
 # pycocotools==2.0.1              # fails to cross compile (aarch64)
-Pillow==8.2.0
+Pillow==9.3.0
 pyitachip2ir==0.0.7
 regex==2021.8.3
 websockets==9.1

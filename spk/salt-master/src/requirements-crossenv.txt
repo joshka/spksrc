@@ -1,6 +1,6 @@
 # https://github.com/saltstack/salt/blob/master/requirements/static/pkg/py3.10/linux.txt
 cffi==1.14.6
-cryptography==3.3.2
+cryptography==41.0.4
 immutables==0.15
 MarkupSafe==1.1.1
 msgpack==1.0.2

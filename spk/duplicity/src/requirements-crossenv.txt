@@ -10,7 +10,7 @@ https://launchpad.net/duplicity/0.8-series/0.8.21/+download/duplicity-0.8.21.tar
 
 bcrypt==3.2.0
 cffi==1.15.0
-cryptography==3.3.2
+cryptography==41.0.4
 lxml==4.7.1
 msgpack==1.0.3
 msgpack-python==0.5.6

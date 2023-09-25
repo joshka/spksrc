@@ -66,7 +66,7 @@ SQLAlchemy==1.4.23
 
 
 ephem==3.7.7.0
-gevent==21.8.0
+gevent==23.9.1
 guppy3==3.1.2
 ###homeassistant-pyozw==0.1.10    # deprecated open-z-wave, fails to cross compile
 netifaces==0.11.0

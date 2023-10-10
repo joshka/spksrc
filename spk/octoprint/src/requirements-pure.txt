@@ -3,7 +3,7 @@
 # requirements-pure.txt containes the pure python packages only
 # packages that need cross-compilation are moved to requirements-crossenv.txt
 
-OctoPrint==1.8.1
+OctoPrint==1.9.3
 #git+https://github.com/OctoPrint/OctoPrint.git@1.8.1#egg=octoprint==1.8.1
 OctoPrint-FileCheck==2021.2.23
 OctoPrint-FirmwareCheck==2021.10.11

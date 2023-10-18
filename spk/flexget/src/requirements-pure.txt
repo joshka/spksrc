@@ -94,7 +94,7 @@ tomlkit==0.10.0
 transmission-rpc==3.3.0
 typing-extensions==3.10.0.2
 tzlocal==2.1
-urllib3==1.26.7
+urllib3==1.26.18
 #virtualenv                  ==> python310
 webencodings==0.5.1
 Werkzeug==2.0.2

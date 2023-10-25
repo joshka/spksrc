@@ -97,7 +97,7 @@ tzlocal==2.1
 urllib3==1.26.7
 #virtualenv                  ==> python310
 webencodings==0.5.1
-Werkzeug==2.0.2
+Werkzeug==3.0.1
 zc.lockfile==2.0
 zipp==3.7.0
 zxcvbn-python==4.4.24

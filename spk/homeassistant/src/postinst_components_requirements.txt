@@ -29,7 +29,7 @@ arcam-fmj==0.7.0
 arrow==1.1.1
 asyncio-dgram==2.1.0
 asyncio-mqtt==0.10.0
-asyncssh==2.7.0
+asyncssh==2.14.1
 authcaptureproxy==1.0.2
 authlib==0.15.4
 axis==44
